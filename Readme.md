@@ -1,0 +1,3 @@
+# Blog Practice
+
+Practica django
